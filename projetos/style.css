@@ -1,0 +1,94 @@
+body{
+    background: #ffffff;
+}
+
+#banner{
+  
+    width: 100%;
+
+}
+
+p{
+    text-align: center;
+    color: black;
+}
+
+h1{
+
+    color: black;
+        
+}
+
+strong{
+
+    color: rgb(163, 33, 33);
+}
+
+.principal{
+    background: #cccccc;
+    padding: 30px;
+    
+}
+
+.beneficios{
+    background: #ffffff;
+    padding: 50px;
+
+    
+}
+
+.itens{
+    font-style: italic;
+}
+
+.centralizado{
+    text-align: center;
+}
+
+
+
+.certa1{
+    width: 50%;
+}
+
+
+
+.black{
+    color: black;
+    font-style: italic;
+}
+
+.link{
+    text-align: center;
+    
+}
+
+#link2{
+    color: black;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+#centro{
+    text-align: center;
+}
+
+.titulo-principal{
+    padding-left: 50px;
+}
+
+
+
+.lista-beneficios:hover{
+    color: #c78c19;
+
+}
+
+.lista-beneficios:active{
+    font-size: 10px;
+}
